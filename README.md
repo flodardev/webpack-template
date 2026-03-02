@@ -2,6 +2,8 @@
 
 This is a template for websites built with webpack
 
+## Don't forget to change package.json
+
 ## Modules
 
 - webpack
